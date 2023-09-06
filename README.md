@@ -10,5 +10,11 @@ The product uses a 3-layer model and is the final product of an application prog
 - .NET Framework
 - ADO.NET
 - Guna Framework
-*** Project folder structure. ***
+
+***Project Folder Structure.***
+
+![image](https://github.com/pchihieuu/SE7644503/assets/98179861/73175127-1f13-4290-ae11-191fc2506a58)
+
+## II. Diagrams
+### 
   
