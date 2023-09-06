@@ -55,7 +55,15 @@ The product uses a 3-layer model and is the final product of an application prog
 ![themsanpham](https://github.com/pchihieuu/SE7644503/assets/98179861/c294c40f-1934-4eaf-8e39-3b67c1768523)
 
 
+***Customer Management Form.***
+
+![khachhang](https://github.com/pchihieuu/SE7644503/assets/98179861/12b50793-a88b-4494-ac78-e837dec79eb8)
+
 ***Bill Management Form.***
+
+![Hoadon](https://github.com/pchihieuu/SE7644503/assets/98179861/9feb1723-10c8-4bc9-955f-ff697fc62e08)
+
+
 
 
 
