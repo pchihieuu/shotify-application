@@ -44,6 +44,10 @@ The product uses a 3-layer model and is the final product of an application prog
 - Employee administrator
 - Reset password with email....
 
+## IV. Result
+***Login Form.***
+
+![Screenshot 2023-09-06 095707](https://github.com/pchihieuu/SE7644503/assets/98179861/1dbd3700-2c16-46d3-b720-b6144d9bcc19)
 
 
 
