@@ -75,7 +75,11 @@ The product uses a 3-layer model and is the final product of an application prog
 
 ![NHANVIEN](https://github.com/pchihieuu/SE7644503/assets/98179861/a5c88427-6854-49ef-8f14-0fa50b3f81d5)
 
-
+### **Authors:**
+Phan Chi Hieu
+- Github: https://github.com/pchihieuu
+- Linkedin: https://www.linkedin.com/in/pchihieu
+- Email: hieup3611@gmail.com 
 
 
 
