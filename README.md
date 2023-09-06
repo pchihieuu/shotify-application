@@ -6,3 +6,9 @@ Shopify sales management software is a software to help manage sales and commerc
 The product uses a 3-layer model and is the final product of an application programming course
 
 ## I.Technology used?
+- Winform App C#
+- .NET Framework
+- ADO.NET
+- Guna Framework
+*** Project folder structure. ***
+  
