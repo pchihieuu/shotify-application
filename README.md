@@ -49,8 +49,11 @@ The product uses a 3-layer model and is the final product of an application prog
 
 ![Screenshot 2023-09-06 095707](https://github.com/pchihieuu/SE7644503/assets/98179861/1dbd3700-2c16-46d3-b720-b6144d9bcc19)
 
+***Product Management Form.***
 
 ![themsanpham](https://github.com/pchihieuu/SE7644503/assets/98179861/c294c40f-1934-4eaf-8e39-3b67c1768523)
+
+***Bill Management Form.***
 
 
 
