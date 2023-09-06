@@ -23,8 +23,7 @@ The product uses a 3-layer model and is the final product of an application prog
 ## III. How to run the project?
 - Step 1: Change the connection string in App.config accordingly 
 - Step 2: Fix Guna Framework error: uninstall and reinstall Guna.UI2.WinForms & Guna.Charts.WinForms package in GUI project.
-- Step 3: Chức năng send mail: đổi tài khoản ở SalesManagement/GUI/SendMail.cs
-
+- Step 3: Send mail function: change account at SalesManagement/GUI/SendMail.cs
 ## III. Feature
 - Login
 - Logout
