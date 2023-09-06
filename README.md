@@ -27,7 +27,7 @@ The product uses a 3-layer model and is the final product of an application prog
 
 - Step 3: Chức năng send mail: đổi tài khoản ở SalesManagement/GUI/SendMail.cs
 
-### III. Feature
+## III. Feature
 - Login
 - Logout
 - Product Management
